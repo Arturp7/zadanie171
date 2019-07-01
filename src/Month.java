@@ -7,21 +7,21 @@ public class Month {
         this.season = season;
     }
 
-    public String getName() {
-        return name;
-    }
+//    public String getName() {
+//        return name;
+//    }
 
-    public void setName(String name) {
-        this.name = name;
-    }
+//    public void setName(String name) {
+//        this.name = name;
+//    }
 
     public Season getSeason() {
         return season;
     }
 
-    public void setSeason(Season season) {
-        this.season = season;
-    }
+//    public void setSeason(Season season) {
+//        this.season = season;
+//    }
 
     @Override
     public String toString() {
